@@ -104,7 +104,7 @@ const ProjectContain = () => {
         <div className="item">
           <div className="portblock">
             This Website is also one that I created. <br />
-            <a className="portflink"> Click here to go to the github page</a>
+            <a className="portflink" href="https://github.com/augello1309/Portfolio"> Click here to go to the github page</a>
           </div>
         </div>
       </div>
