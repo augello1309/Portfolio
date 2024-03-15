@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://augello1309.github.io/Portfolio",
+  "homepage": "https://augello1309.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
